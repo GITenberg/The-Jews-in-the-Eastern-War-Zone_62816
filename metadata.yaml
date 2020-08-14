@@ -1,0 +1,29 @@
+_repo: The-Jews-in-the-Eastern-War-Zone_62816
+_version: 0.0.1
+creator:
+  author:
+    agent_name: American Jewish Committee
+    aliases:
+    - A.J.C. (American Jewish Committee)
+    - AJC (American Jewish Committee)
+    - AJCommittee
+    - Committee, American Jewish
+    gutenberg_agent_id: '52141'
+    url: http://www.gutenberg.org/2009/agents/52141
+    wikipedia: https://en.wikipedia.org/wiki/American_Jewish_Committee
+description: ''
+gutenberg_issued: '2020-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62816'
+  lccn: '16005589'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Jews'
+- !lcc 'D501'
+- GITenberg
+title: The Jews in the Eastern War Zone
+url: http://www.gutenberg.org/ebooks/62816
